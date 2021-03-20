@@ -1,0 +1,7 @@
+C:\Users\juanm\source\repos\Clase1\Ejercicio 8 - Guia\bin\Debug\Ejercicio 8 - Guia.exe.config
+C:\Users\juanm\source\repos\Clase1\Ejercicio 8 - Guia\bin\Debug\Ejercicio 8 - Guia.exe
+C:\Users\juanm\source\repos\Clase1\Ejercicio 8 - Guia\bin\Debug\Ejercicio 8 - Guia.pdb
+C:\Users\juanm\source\repos\Clase1\Ejercicio 8 - Guia\obj\Debug\Ejercicio 8 - Guia.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\Clase1\Ejercicio 8 - Guia\obj\Debug\Ejercicio 8 - Guia.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Clase1\Ejercicio 8 - Guia\obj\Debug\Ejercicio 8 - Guia.exe
+C:\Users\juanm\source\repos\Clase1\Ejercicio 8 - Guia\obj\Debug\Ejercicio 8 - Guia.pdb

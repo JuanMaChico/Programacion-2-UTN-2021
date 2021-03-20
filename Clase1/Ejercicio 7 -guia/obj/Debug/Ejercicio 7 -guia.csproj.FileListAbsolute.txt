@@ -1,0 +1,6 @@
+C:\Users\juanm\source\repos\Clase1\Ejercicio 7 -guia\bin\Debug\Ejercicio 7 -guia.exe.config
+C:\Users\juanm\source\repos\Clase1\Ejercicio 7 -guia\bin\Debug\Ejercicio 7 -guia.exe
+C:\Users\juanm\source\repos\Clase1\Ejercicio 7 -guia\bin\Debug\Ejercicio 7 -guia.pdb
+C:\Users\juanm\source\repos\Clase1\Ejercicio 7 -guia\obj\Debug\Ejercicio 7 -guia.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Clase1\Ejercicio 7 -guia\obj\Debug\Ejercicio 7 -guia.exe
+C:\Users\juanm\source\repos\Clase1\Ejercicio 7 -guia\obj\Debug\Ejercicio 7 -guia.pdb
