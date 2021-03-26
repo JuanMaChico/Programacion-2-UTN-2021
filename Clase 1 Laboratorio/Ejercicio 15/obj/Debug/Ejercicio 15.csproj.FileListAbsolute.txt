@@ -1,0 +1,10 @@
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 15\bin\Debug\Ejercicio 15.exe.config
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 15\bin\Debug\Ejercicio 15.exe
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 15\bin\Debug\Ejercicio 15.pdb
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 15\bin\Debug\BibliotecaDeClases.dll
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 15\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 15\obj\Debug\Ejercicio 15.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 15\obj\Debug\Ejercicio 15.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 15\obj\Debug\Ejercicio 15.csproj.CopyComplete
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 15\obj\Debug\Ejercicio 15.exe
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 15\obj\Debug\Ejercicio 15.pdb

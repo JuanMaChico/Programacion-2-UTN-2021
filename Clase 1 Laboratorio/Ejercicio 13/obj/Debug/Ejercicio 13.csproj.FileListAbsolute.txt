@@ -1,0 +1,10 @@
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 13\bin\Debug\Ejercicio 13.exe.config
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 13\bin\Debug\Ejercicio 13.exe
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 13\bin\Debug\Ejercicio 13.pdb
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 13\obj\Debug\Ejercicio 13.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 13\obj\Debug\Ejercicio 13.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 13\obj\Debug\Ejercicio 13.exe
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 13\obj\Debug\Ejercicio 13.pdb
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 13\bin\Debug\BibliotecaDeClases.dll
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 13\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 13\obj\Debug\Ejercicio 13.csproj.CopyComplete

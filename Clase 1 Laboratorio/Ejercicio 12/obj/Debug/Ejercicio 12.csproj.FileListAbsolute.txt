@@ -1,0 +1,10 @@
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 12\bin\Debug\Ejercicio 12.exe.config
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 12\bin\Debug\Ejercicio 12.exe
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 12\bin\Debug\Ejercicio 12.pdb
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 12\bin\Debug\BibliotecaDeClases.dll
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 12\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 12\obj\Debug\Ejercicio 12.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CopyComplete
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 12\obj\Debug\Ejercicio 12.exe
+C:\Users\juanm\source\repos\Clase 1 Laboratorio\Ejercicio 12\obj\Debug\Ejercicio 12.pdb
