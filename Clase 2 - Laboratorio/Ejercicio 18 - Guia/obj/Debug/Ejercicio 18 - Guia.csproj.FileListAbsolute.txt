@@ -1,0 +1,12 @@
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\bin\Debug\Ejercicio 18 - Guia.exe.config
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\bin\Debug\Ejercicio 18 - Guia.exe
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\bin\Debug\Ejercicio 18 - Guia.pdb
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\bin\Debug\Biblioteca De Clases.dll
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\bin\Debug\Geometria.dll
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\bin\Debug\Biblioteca De Clases.pdb
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\bin\Debug\Geometria.pdb
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\obj\Debug\Ejercicio 18 - Guia.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\obj\Debug\Ejercicio 18 - Guia.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\obj\Debug\Ejercicio 18 - Guia.csproj.CopyComplete
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\obj\Debug\Ejercicio 18 - Guia.exe
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 18 - Guia\obj\Debug\Ejercicio 18 - Guia.pdb

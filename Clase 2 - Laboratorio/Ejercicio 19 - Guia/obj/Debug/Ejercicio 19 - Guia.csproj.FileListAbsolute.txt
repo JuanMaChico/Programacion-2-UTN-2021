@@ -1,0 +1,10 @@
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 19 - Guia\bin\Debug\Ejercicio 19 - Guia.exe.config
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 19 - Guia\bin\Debug\Ejercicio 19 - Guia.exe
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 19 - Guia\bin\Debug\Ejercicio 19 - Guia.pdb
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 19 - Guia\bin\Debug\Biblioteca De Clases.dll
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 19 - Guia\bin\Debug\Biblioteca De Clases.pdb
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 19 - Guia\obj\Debug\Ejercicio 19 - Guia.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 19 - Guia\obj\Debug\Ejercicio 19 - Guia.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 19 - Guia\obj\Debug\Ejercicio 19 - Guia.csproj.CopyComplete
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 19 - Guia\obj\Debug\Ejercicio 19 - Guia.exe
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Ejercicio 19 - Guia\obj\Debug\Ejercicio 19 - Guia.pdb
