@@ -1,0 +1,6 @@
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Billetes\bin\Debug\Billetes.dll
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Billetes\bin\Debug\Billetes.pdb
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Billetes\obj\Debug\Billetes.dll
+C:\Users\juanm\source\repos\Clase 2 - Laboratorio\Billetes\obj\Debug\Billetes.pdb
