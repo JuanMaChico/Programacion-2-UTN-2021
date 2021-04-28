@@ -108,16 +108,6 @@ namespace Clase_de_Arrays
 			}
 			Console.WriteLine("\n-------------------------------------------\n");
 
-
-
-
-
-
-
-
-
-
-
 			Console.ReadKey();
 		}
 	}
