@@ -1,0 +1,10 @@
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Juego De Cartas\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Juego De Cartas\Presentation\bin\Debug\Presentation.exe
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Juego De Cartas\Presentation\bin\Debug\Presentation.pdb
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Juego De Cartas\Presentation\bin\Debug\Business.dll
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Juego De Cartas\Presentation\bin\Debug\Business.pdb
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Juego De Cartas\Presentation\obj\Debug\Presentation.Console.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Juego De Cartas\Presentation\obj\Debug\Presentation.Console.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Juego De Cartas\Presentation\obj\Debug\Presentation.Console.csproj.CopyComplete
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Juego De Cartas\Presentation\obj\Debug\Presentation.exe
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Juego De Cartas\Presentation\obj\Debug\Presentation.pdb

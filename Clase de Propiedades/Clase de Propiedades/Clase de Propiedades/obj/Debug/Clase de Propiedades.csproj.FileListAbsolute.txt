@@ -1,0 +1,13 @@
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\bin\Debug\Clase de Propiedades.exe.config
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\bin\Debug\Clase de Propiedades.exe
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\bin\Debug\Clase de Propiedades.pdb
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\bin\Debug\Biblioteca de Clases.dll
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\bin\Debug\Biblioteca de Clases.pdb
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\obj\Debug\Clase de Propiedades.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\obj\Debug\Clase_de_Propiedades.Form1.resources
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\obj\Debug\Clase_de_Propiedades.Properties.Resources.resources
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\obj\Debug\Clase de Propiedades.csproj.GenerateResource.cache
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\obj\Debug\Clase de Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\obj\Debug\Clase de Propiedades.csproj.CopyComplete
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\obj\Debug\Clase de Propiedades.exe
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Propiedades\Clase de Propiedades\Clase de Propiedades\obj\Debug\Clase de Propiedades.pdb

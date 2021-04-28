@@ -1,0 +1,7 @@
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Arrays\Clase de Arrays\bin\Debug\Clase de Arrays.exe.config
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Arrays\Clase de Arrays\bin\Debug\Clase de Arrays.exe
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Arrays\Clase de Arrays\bin\Debug\Clase de Arrays.pdb
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Arrays\Clase de Arrays\obj\Debug\Clase de Arrays.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Arrays\Clase de Arrays\obj\Debug\Clase de Arrays.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Arrays\Clase de Arrays\obj\Debug\Clase de Arrays.exe
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Arrays\Clase de Arrays\obj\Debug\Clase de Arrays.pdb
