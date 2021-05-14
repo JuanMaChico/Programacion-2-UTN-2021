@@ -1,0 +1,13 @@
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\bin\Debug\Ejercicio 23 - Guia.exe.config
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\bin\Debug\Ejercicio 23 - Guia.exe
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\bin\Debug\Ejercicio 23 - Guia.pdb
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\obj\Debug\Ejercicio 23 - Guia.csprojAssemblyReference.cache
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\obj\Debug\Ejercicio_23___Guia.Properties.Resources.resources
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\obj\Debug\Ejercicio 23 - Guia.csproj.GenerateResource.cache
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\obj\Debug\Ejercicio 23 - Guia.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\obj\Debug\Ejercicio 23 - Guia.exe
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\obj\Debug\Ejercicio 23 - Guia.pdb
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\bin\Debug\es-AR\Ejercicio 23 - Guia.resources.dll
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\obj\Debug\Ejercicio_23___Guia.Form_Principal.resources
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\obj\Debug\Ejercicio_23___Guia.Form_Principal.es-AR.resources
+C:\Users\juanm\Source\Repos\Programacion-2-UTN-2021\Clase 2 - Laboratorio\Ejercicio 23 - Guia\obj\Debug\es-AR\Ejercicio 23 - Guia.resources.dll

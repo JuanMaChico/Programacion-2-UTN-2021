@@ -96,9 +96,7 @@ namespace Ejercicio_26___Guia
 				}
 				return 0;
 			}
-
-
-
+			
 			Console.ReadKey();
 		}
 	}
