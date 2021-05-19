@@ -1,0 +1,6 @@
+C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2018\ModeloParcial 1 2018\Biblioteca de clases\bin\Debug\Biblioteca de clases.dll
+C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2018\ModeloParcial 1 2018\Biblioteca de clases\bin\Debug\Biblioteca de clases.pdb
+C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2018\ModeloParcial 1 2018\Biblioteca de clases\obj\Debug\Biblioteca de clases.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2018\ModeloParcial 1 2018\Biblioteca de clases\obj\Debug\Biblioteca de clases.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2018\ModeloParcial 1 2018\Biblioteca de clases\obj\Debug\Biblioteca de clases.dll
+C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2018\ModeloParcial 1 2018\Biblioteca de clases\obj\Debug\Biblioteca de clases.pdb

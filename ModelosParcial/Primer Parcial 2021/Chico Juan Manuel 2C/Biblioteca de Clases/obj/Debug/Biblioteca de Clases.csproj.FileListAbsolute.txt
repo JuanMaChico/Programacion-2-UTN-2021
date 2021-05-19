@@ -1,0 +1,6 @@
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.dll
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.pdb
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.dll
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.pdb

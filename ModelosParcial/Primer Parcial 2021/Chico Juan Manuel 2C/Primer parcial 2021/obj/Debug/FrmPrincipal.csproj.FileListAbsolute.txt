@@ -1,0 +1,13 @@
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\bin\Debug\Primer Parcial 2021.exe.config
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\bin\Debug\Primer Parcial 2021.exe
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\bin\Debug\Primer Parcial 2021.pdb
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\bin\Debug\Biblioteca de Clases.dll
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\bin\Debug\Biblioteca de Clases.pdb
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\obj\Debug\Primer_Parcial_2021.FrmPrincipal.resources
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\obj\Debug\Primer_Parcial_2021.Properties.Resources.resources
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\obj\Debug\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\obj\Debug\FrmPrincipal.csproj.CopyComplete
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\obj\Debug\Primer Parcial 2021.exe
+C:\Users\juanm\source\repos\ModelosParcial\Primer Parcial 2021\Primer Parcial 2021\Primer Parcial 2021\obj\Debug\Primer Parcial 2021.pdb
