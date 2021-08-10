@@ -1,6 +1,0 @@
-C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2017\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
-C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2017\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
-C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2017\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
-C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2017\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
-C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2017\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
-C:\Users\juanm\source\repos\ModelosParcial\ModeloParcial 1 2017\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

@@ -1,7 +1,0 @@
-C:\Users\juanm\source\repos\Clase1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
-C:\Users\juanm\source\repos\Clase1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
-C:\Users\juanm\source\repos\Clase1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
-C:\Users\juanm\source\repos\Clase1\Ejercicio 1\obj\Debug\Ejercicio 1 - Guia.csprojAssemblyReference.cache
-C:\Users\juanm\source\repos\Clase1\Ejercicio 1\obj\Debug\Ejercicio 1 - Guia.csproj.CoreCompileInputs.cache
-C:\Users\juanm\source\repos\Clase1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
-C:\Users\juanm\source\repos\Clase1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb

@@ -1,7 +1,0 @@
-C:\Users\juanm\Documents\source\repos\Programacion-2-UTN-2021\Explicaciones - Ejercicios Guia\Clase Exeptions\Practica - Exeptions\Practica - Exeptions\bin\Debug\Practica - Exeptions.exe.config
-C:\Users\juanm\Documents\source\repos\Programacion-2-UTN-2021\Explicaciones - Ejercicios Guia\Clase Exeptions\Practica - Exeptions\Practica - Exeptions\bin\Debug\Practica - Exeptions.exe
-C:\Users\juanm\Documents\source\repos\Programacion-2-UTN-2021\Explicaciones - Ejercicios Guia\Clase Exeptions\Practica - Exeptions\Practica - Exeptions\bin\Debug\Practica - Exeptions.pdb
-C:\Users\juanm\Documents\source\repos\Programacion-2-UTN-2021\Explicaciones - Ejercicios Guia\Clase Exeptions\Practica - Exeptions\Practica - Exeptions\obj\Debug\Practica - Exeptions.csproj.AssemblyReference.cache
-C:\Users\juanm\Documents\source\repos\Programacion-2-UTN-2021\Explicaciones - Ejercicios Guia\Clase Exeptions\Practica - Exeptions\Practica - Exeptions\obj\Debug\Practica - Exeptions.csproj.CoreCompileInputs.cache
-C:\Users\juanm\Documents\source\repos\Programacion-2-UTN-2021\Explicaciones - Ejercicios Guia\Clase Exeptions\Practica - Exeptions\Practica - Exeptions\obj\Debug\Practica - Exeptions.exe
-C:\Users\juanm\Documents\source\repos\Programacion-2-UTN-2021\Explicaciones - Ejercicios Guia\Clase Exeptions\Practica - Exeptions\Practica - Exeptions\obj\Debug\Practica - Exeptions.pdb

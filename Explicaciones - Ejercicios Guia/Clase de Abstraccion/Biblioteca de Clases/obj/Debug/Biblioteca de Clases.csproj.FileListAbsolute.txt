@@ -1,6 +1,0 @@
-C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Abstraccion\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.dll
-C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Abstraccion\Biblioteca de Clases\bin\Debug\Biblioteca de Clases.pdb
-C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Abstraccion\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.csprojAssemblyReference.cache
-C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Abstraccion\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.csproj.CoreCompileInputs.cache
-C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Abstraccion\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.dll
-C:\Users\juanm\source\repos\Programacion-2-UTN-2021\Clase de Abstraccion\Biblioteca de Clases\obj\Debug\Biblioteca de Clases.pdb

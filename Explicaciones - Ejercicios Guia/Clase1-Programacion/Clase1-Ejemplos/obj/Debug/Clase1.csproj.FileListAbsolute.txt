@@ -1,7 +1,0 @@
-C:\Users\juanm\source\repos\Clase1\Clase1\bin\Debug\Clase1.exe.config
-C:\Users\juanm\source\repos\Clase1\Clase1\bin\Debug\Clase1.exe
-C:\Users\juanm\source\repos\Clase1\Clase1\bin\Debug\Clase1.pdb
-C:\Users\juanm\source\repos\Clase1\Clase1\obj\Debug\Clase1.csprojAssemblyReference.cache
-C:\Users\juanm\source\repos\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
-C:\Users\juanm\source\repos\Clase1\Clase1\obj\Debug\Clase1.exe
-C:\Users\juanm\source\repos\Clase1\Clase1\obj\Debug\Clase1.pdb
