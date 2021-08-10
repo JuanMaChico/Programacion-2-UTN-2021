@@ -1,0 +1,6 @@
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\ModelosParcial\Chico.JuanManuel.2C\Chico.JuanManuel.2C\obj\Debug\BibliotecaDeClases.csproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\ModelosParcial\Chico.JuanManuel.2C\Chico.JuanManuel.2C\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\ModelosParcial\Chico.JuanManuel.2C\Chico.JuanManuel.2C\bin\Debug\Chico.JuanManuel.2C.dll
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\ModelosParcial\Chico.JuanManuel.2C\Chico.JuanManuel.2C\bin\Debug\Chico.JuanManuel.2C.pdb
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\ModelosParcial\Chico.JuanManuel.2C\Chico.JuanManuel.2C\obj\Debug\Chico.JuanManuel.2C.dll
+C:\Users\juanm\source\repos\Programacion-2-UTN-2021\ModelosParcial\Chico.JuanManuel.2C\Chico.JuanManuel.2C\obj\Debug\Chico.JuanManuel.2C.pdb

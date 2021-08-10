@@ -1,0 +1,20 @@
+C:\Users\aleja\Desktop\GestorSQL\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\aleja\Desktop\GestorSQL\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\aleja\Desktop\GestorSQL\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\GestorSQL\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\GestorSQL\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\aleja\Desktop\GestorSQL\Biblioteca\obj\Debug\Biblioteca.pdb
+E:\Cursos Youtube\C#\GestorSQL\Biblioteca\bin\Debug\Biblioteca.dll
+E:\Cursos Youtube\C#\GestorSQL\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\Cursos Youtube\C#\GestorSQL\Biblioteca\obj\Debug\Biblioteca.csproj.ResolveComReference.cache
+E:\Cursos Youtube\C#\GestorSQL\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+E:\Cursos Youtube\C#\GestorSQL\Biblioteca\obj\Debug\Biblioteca.dll
+E:\Cursos Youtube\C#\GestorSQL\Biblioteca\obj\Debug\Biblioteca.pdb
+E:\Cursos Youtube\C#\GestorSQL\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+F:\Cursos Youtube\C#\GestorSQL\Biblioteca\bin\Debug\Biblioteca.dll
+F:\Cursos Youtube\C#\GestorSQL\Biblioteca\bin\Debug\Biblioteca.pdb
+F:\Cursos Youtube\C#\GestorSQL\Biblioteca\obj\Debug\Biblioteca.csproj.ResolveComReference.cache
+F:\Cursos Youtube\C#\GestorSQL\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+F:\Cursos Youtube\C#\GestorSQL\Biblioteca\obj\Debug\Biblioteca.dll
+F:\Cursos Youtube\C#\GestorSQL\Biblioteca\obj\Debug\Biblioteca.pdb
+F:\Cursos Youtube\C#\GestorSQL\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache

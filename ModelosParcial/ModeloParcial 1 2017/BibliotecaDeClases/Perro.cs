@@ -68,10 +68,13 @@ namespace BibliotecaDeClases
 			return this.Ficha();
 		}
 		
+
 		public static explicit operator int(Perro dog)
 		{
 			return dog.edad;
 		}
+
+
 		public override bool Equals(object obj)
 		{
 			if (obj is Perro)

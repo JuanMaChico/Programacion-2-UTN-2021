@@ -1,0 +1,55 @@
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\bin\Debug\GestorSQL.exe.config
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\bin\Debug\GestorSQL.exe
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\bin\Debug\GestorSQL.pdb
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\bin\Debug\Biblioteca.dll
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\bin\Debug\Biblioteca.pdb
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\obj\Debug\GestorSQL.frmGetorSQL.resources
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\obj\Debug\GestorSQL.Properties.Resources.resources
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.GenerateResource.cache
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.CopyComplete
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\obj\Debug\GestorSQL.exe
+C:\Users\aleja\Desktop\GestorSQL\GestorSQL\obj\Debug\GestorSQL.pdb
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\bin\Debug\GestorSQL.exe.config
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\bin\Debug\GestorSQL.exe
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\bin\Debug\GestorSQL.pdb
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\bin\Debug\Biblioteca.dll
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\bin\Debug\Biblioteca.pdb
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csprojAssemblyReference.cache
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.ResolveComReference.cache
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.frmGetorSQL.resources
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.Properties.Resources.resources
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.GenerateResource.cache
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.CoreCompileInputs.cache
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.CopyComplete
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.exe
+E:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.pdb
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\bin\Debug\GestorSQL.exe.config
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\bin\Debug\GestorSQL.exe
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\bin\Debug\GestorSQL.pdb
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\bin\Debug\Biblioteca.dll
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\bin\Debug\Biblioteca.pdb
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.ResolveComReference.cache
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.frmGetorSQL.resources
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.Properties.Resources.resources
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.GenerateResource.cache
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.CoreCompileInputs.cache
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.CopyComplete
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.exe
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.pdb
+F:\Cursos Youtube\C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.ResolveComReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.frmGetorSQL.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.Properties.Resources.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.GenerateResource.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\bin\Debug\GestorSQL.exe.config
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\bin\Debug\GestorSQL.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\bin\Debug\GestorSQL.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\bin\Debug\Biblioteca.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\bin\Debug\Biblioteca.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\GestorSQL\GestorSQL\obj\Debug\GestorSQL.csproj.CopyComplete
