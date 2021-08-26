@@ -1,0 +1,15 @@
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\bin\Debug\net5.0\Ejercicio-5.exe
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\bin\Debug\net5.0\Ejercicio-5.deps.json
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\bin\Debug\net5.0\Ejercicio-5.runtimeconfig.json
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\bin\Debug\net5.0\Ejercicio-5.runtimeconfig.dev.json
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\bin\Debug\net5.0\Ejercicio-5.dll
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\bin\Debug\net5.0\ref\Ejercicio-5.dll
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\bin\Debug\net5.0\Ejercicio-5.pdb
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\obj\Debug\net5.0\Ejercicio-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\obj\Debug\net5.0\Ejercicio-5.AssemblyInfoInputs.cache
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\obj\Debug\net5.0\Ejercicio-5.AssemblyInfo.cs
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\obj\Debug\net5.0\Ejercicio-5.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\obj\Debug\net5.0\Ejercicio-5.dll
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\obj\Debug\net5.0\ref\Ejercicio-5.dll
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\obj\Debug\net5.0\Ejercicio-5.pdb
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-5\obj\Debug\net5.0\Ejercicio-5.genruntimeconfig.cache

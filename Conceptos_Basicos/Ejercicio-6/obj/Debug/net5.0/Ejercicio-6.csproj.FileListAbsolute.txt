@@ -1,0 +1,16 @@
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\bin\Debug\net5.0\Ejercicio-6.exe
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\bin\Debug\net5.0\Ejercicio-6.deps.json
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\bin\Debug\net5.0\Ejercicio-6.runtimeconfig.json
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\bin\Debug\net5.0\Ejercicio-6.runtimeconfig.dev.json
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\bin\Debug\net5.0\Ejercicio-6.dll
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\bin\Debug\net5.0\ref\Ejercicio-6.dll
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\bin\Debug\net5.0\Ejercicio-6.pdb
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\obj\Debug\net5.0\Ejercicio-6.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\obj\Debug\net5.0\Ejercicio-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\obj\Debug\net5.0\Ejercicio-6.AssemblyInfoInputs.cache
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\obj\Debug\net5.0\Ejercicio-6.AssemblyInfo.cs
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\obj\Debug\net5.0\Ejercicio-6.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\obj\Debug\net5.0\Ejercicio-6.dll
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\obj\Debug\net5.0\ref\Ejercicio-6.dll
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\obj\Debug\net5.0\Ejercicio-6.pdb
+C:\Users\juanm\Documents\Proyectos\C#\Programacion-2-UTN-2021\Conceptos_Basicos\Ejercicio-6\obj\Debug\net5.0\Ejercicio-6.genruntimeconfig.cache
