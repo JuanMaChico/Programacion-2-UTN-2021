@@ -6,7 +6,14 @@ namespace Ejercicio_3
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Ejercicio-3");
+			//Mostrar por pantalla todos los números primos que haya hasta el número que ingrese el usuario
+			//por consola.
+			//Nota: Utilizar estructuras repetitivas, selectivas y la función módulo(%).
+
+
+
+
 		}
 	}
 }
