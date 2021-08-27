@@ -13,21 +13,21 @@ namespace Ejercicio_7
 			//Nota: Utilizar estructuras selectivas.Tener en cuenta los años bisiestos.
 
 			DateTime fechaNacimiento;
-			string dia;
-			string mes;
-			string anno;
 
 			Console.Write("Ingrese Fecha de Nacimiento (AAAA/MM/DD): ");
-			
 
-			if (DateTime.TryParse(Console.ReadLine(), out fechaNacimiento))
-			{
-				Console.WriteLine("OK");
-			}
-			else
-			{
-				Console.WriteLine("Fecha Invalida");
-			}
+            while (true)
+            {
+				if (DateTime.TryParse(Console.ReadLine(), out fechaNacimiento))
+				{
+					Console.WriteLine("OK");
+					break;
+				}
+				else
+				{
+					Console.WriteLine("Fecha Invalida");
+				}
+            }
 
 
 		}

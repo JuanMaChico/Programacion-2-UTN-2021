@@ -1,29 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanm\\Documents\\Proyectos\\C#\\Programacion-2-UTN-2021\\Conceptos_Basicos\\Ejercicio-8\\Ejercicio-8.csproj": {}
+    "D:\\UTN\\Programacion-2-UTN-2021\\Conceptos_Basicos\\Ejercicio-8\\Ejercicio-8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanm\\Documents\\Proyectos\\C#\\Programacion-2-UTN-2021\\Conceptos_Basicos\\Ejercicio-8\\Ejercicio-8.csproj": {
+    "D:\\UTN\\Programacion-2-UTN-2021\\Conceptos_Basicos\\Ejercicio-8\\Ejercicio-8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanm\\Documents\\Proyectos\\C#\\Programacion-2-UTN-2021\\Conceptos_Basicos\\Ejercicio-8\\Ejercicio-8.csproj",
+        "projectUniqueName": "D:\\UTN\\Programacion-2-UTN-2021\\Conceptos_Basicos\\Ejercicio-8\\Ejercicio-8.csproj",
         "projectName": "Ejercicio-8",
-        "projectPath": "C:\\Users\\juanm\\Documents\\Proyectos\\C#\\Programacion-2-UTN-2021\\Conceptos_Basicos\\Ejercicio-8\\Ejercicio-8.csproj",
-        "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanm\\Documents\\Proyectos\\C#\\Programacion-2-UTN-2021\\Conceptos_Basicos\\Ejercicio-8\\obj\\",
+        "projectPath": "D:\\UTN\\Programacion-2-UTN-2021\\Conceptos_Basicos\\Ejercicio-8\\Ejercicio-8.csproj",
+        "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
+        "outputPath": "D:\\UTN\\Programacion-2-UTN-2021\\Conceptos_Basicos\\Ejercicio-8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\juanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Juan Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
@@ -54,7 +49,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
